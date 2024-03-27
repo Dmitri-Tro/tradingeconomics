@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 150px;
+}
+
+.selectArea {
+display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
